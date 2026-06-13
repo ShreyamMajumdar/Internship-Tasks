@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("data/titanic.csv")
+df = pd.read_csv("Day01/data/titanic.csv")
 
 print("Shape of dataset (rows, columns):")
 print(df.shape)
