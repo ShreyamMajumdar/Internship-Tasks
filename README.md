@@ -14,6 +14,7 @@
 |-----|------|--------|
 | [Day 01](./Day01/README.md) | Titanic Dataset — EDA & Visualizations | ✅ Complete |
 | [Day 02](./Day02/README.md) | Diabetes Dataset — EDA, Cleaning & ML Model | ✅ Complete |
+| [Day 03](./Day03/README.md) | Auto MPG Dataset — Feature Engineering & Model Comparison | ✅ Complete |
 
 ---
 
@@ -26,6 +27,6 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 ```bash
 pip install pandas matplotlib seaborn numpy scikit-learn
-cd Day01  # or Day02
+cd Day01  # or Day02, Day03
 python analysis.py
 ```
