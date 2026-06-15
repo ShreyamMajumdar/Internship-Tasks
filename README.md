@@ -3,7 +3,7 @@
 ![Domain](https://img.shields.io/badge/Domain-AI%20%2F%20Data%20Science-blue?style=flat-square&logo=python)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-**Intern:** Your Full Name
+**Intern:** Shreyam Majumdar
 **Program:** Internship Training Program
 
 ---
