@@ -17,18 +17,19 @@
 | [Day 03](./Day03/README.md) | Auto MPG Dataset — Feature Engineering & Model Comparison | ✅ Complete |
 | [Day 04](./Day04/README.md) | Heart Disease — Model Comparison, Feature Selection & Tuning | ✅ Complete |
 | [Day 05](./Day05/README.md) | Wine Quality — NLP, Pipelines, Dashboard & Model Comparison | ✅ Complete |
+| [Day 06](./Day06/README.md) | Wine Quality + NLP — Advanced Pipelines, Anomaly Detection & Recommendation | ✅ Complete |
 
 ---
 
 ## 🛠️ Tech Stack
-Python · pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · TextBlob
+Python · pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · TextBlob · NLTK
 
 ---
 
 ## ▶️ How to Run
 
 ```bash
-pip install pandas matplotlib seaborn numpy scikit-learn textblob
-cd Day01  # or Day02, Day03, Day04, Day05
+pip install pandas matplotlib seaborn numpy scikit-learn textblob nltk
+cd Day01  # or Day02, Day03, Day04, Day05, Day06
 python analysis.py
 ```
