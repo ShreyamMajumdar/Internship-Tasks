@@ -167,4 +167,4 @@ python analysis.py
 
 ---
 
-> ⬅️ [Day 05](../Day05/README.md) · 🏠 [Main README](../README.md)
+> ⬅️ [Day 05](../Day05/README.md) · 🏠 [Main README](../README.md) · ➡️ [Day 07](../Day07/README.md)
